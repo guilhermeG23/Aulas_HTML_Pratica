@@ -1,0 +1,26 @@
+HTML Marcos Bruno
+
+HTML semantico -> Escrita correta no HTML -> Ganha estrutura e correto entendimento do navegador
+	-> Ajuda o entedimento dos robos de busca para visualizar o site
+	-> Acessibilidade
+
+HTML foi desenvolvido para desenvolvimento de documentos e não para site inicialmente -> Por isso foi feito a criação de várias tags de configuração e estrutura
+
+HTML semantico no brasil -> Necessita seguir determinadas leis de semantica -> Risco de processo caso não seguir
+
+Dois tipos de imagens -> Explicativa e decorativa -> Facilita o entedimento ou explica alguma situação
+
+ctrl+d numa seleção -> Ele seleciona a proxima opção igual a atual, da para editar em mais de uma local eo mesmo tempo
+
+Diferença do HTML para o XHTML -> HTML não é padronizado nos equipamentos, o XML é, assim junta o HTML + XML, dá o XHTML
+
+<nav> -> Navegação -> Envolve a estrutura do html em si, ajuda em analise de conteudo
+
+UTF-8 -> Cada caracter tem 8 bits -> Permite maior contabilidade de idiomas
+
+<!DOCTYPE html> -> Use o HTML mais atualizado do navegador -> Topo do HTML
+
+Use o ingles o maximo possivel, por motivos de acessibilidade externa, se você souber que ninguem fora um grupo seleto vai acessar a info, escreva no idioma de preferencia geral deste grupo
+
+git -> --set-upstream == -u -> Quem deve receber no repositorio externo
+
