@@ -1,0 +1,56 @@
+HTML Marcos Bruno
+
+HTML semantico -> Escrita correta no HTML -> Ganha estrutura e correto entendimento do navegador
+	-> Ajuda o entedimento dos robos de busca para visualizar o site
+	-> Acessibilidade
+
+HTML foi desenvolvido para desenvolvimento de documentos e não para site inicialmente -> Por isso foi feito a criação de várias tags de configuração e estrutura
+
+HTML semantico no brasil -> Necessita seguir determinadas leis de semantica -> Risco de processo caso não seguir
+
+Dois tipos de imagens -> Explicativa e decorativa -> Facilita o entedimento ou explica alguma situação
+
+ctrl+d numa seleção -> Ele seleciona a proxima opção igual a atual, da para editar em mais de uma local eo mesmo tempo
+
+Diferença do HTML para o XHTML -> HTML não é padronizado nos equipamentos, o XML é, assim junta o HTML + XML, dá o XHTML
+
+<nav> -> Navegação -> Envolve a estrutura do html em si, ajuda em analise de conteudo
+
+UTF-8 -> Cada caracter tem 8 bits -> Permite maior contabilidade de idiomas
+
+<!DOCTYPE html> -> Use o HTML mais atualizado do navegador -> Topo do HTML
+
+Use o ingles o maximo possivel, por motivos de acessibilidade externa, se você souber que ninguem fora um grupo seleto vai acessar a info, escreva no idioma de preferencia geral deste grupo
+
+git -> --set-upstream == -u -> Quem deve receber no repositorio externo
+
+Evite mais de 1 H1 na página -> Afinal é um titulo
+
+CSS -> Definição visual da estrutura -> Cor
+
+Antes do CSS era muito usado CSS interno 
+
+Selecionar uma tag no css é somente escrever a tag no css
+
+Ex: 
+body {
+}
+
+0 -> Ausencia de cor
+F -> Toda cor 
+
+baseado no sistema de cor RGBA -> Tres cores + visibilidade
+
+Manutenção rápida é software barato -> BOM
+
+Uso de variaveis em CSS, quando fizer o link no CSS, coloque aquele que contem as variaveis antes de qualquer outro que a utilize
+
+O CSS é dividido em configuração e elementos, config são aqueles que definem e elementos são aqueles referencidos 
+
+Componente Front end -> Pequeno a ponto de reutilizar -> Usar para outros lugares
+	-> Não tem algumas propriedades -> Tamanho, espaçamento e posicionamento
+	-> O componente tem sempre dois nomes e é colocado na pasta componentes do css
+
+Não usamos id para seleção CSS, ele mais atrapalha que ajuda, tem regras sobre isso e seu uso
+
+Fallback -> Chamar uma fonte de reserva caso a principal não funcionar

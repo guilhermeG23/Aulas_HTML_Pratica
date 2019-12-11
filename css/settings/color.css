@@ -1,0 +1,9 @@
+/*
+Variaveis CSS
+Qualquer um pode usar -> Permite acesso
+Criar propriedades customizadas
+*/
+:root {
+    --color-primary: #a3a300;
+    --color-second: white;
+}

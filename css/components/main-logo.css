@@ -1,0 +1,5 @@
+/*Chamando variavel para colocar cor na letra*/
+.main-logo {
+    color: var(--color-second);
+    font-family: 'Bitter', serif;
+}

@@ -1,0 +1,7 @@
+.primary-button {
+    color: var(--color-primary);
+    background-color: var(--color-second);
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: var(--size-font);
+}

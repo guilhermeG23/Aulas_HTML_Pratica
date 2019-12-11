@@ -1,0 +1,6 @@
+/*Css simples*/
+
+/*Chamando uma variavel dentro do css*/
+body {
+    background-color: var(--color-primary);
+}
