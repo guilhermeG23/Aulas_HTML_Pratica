@@ -54,3 +54,11 @@ Componente Front end -> Pequeno a ponto de reutilizar -> Usar para outros lugare
 Não usamos id para seleção CSS, ele mais atrapalha que ajuda, tem regras sobre isso e seu uso
 
 Fallback -> Chamar uma fonte de reserva caso a principal não funcionar
+
+:root -> Cria um seletor que possa ser utilizado em outros componentes
+
+Boas práticas de CSS
+
+Componentes -> Componentes que irão ser utilizados em mais de um local
+Settings -> Valores fixos a serem setados em outros locais
+containers -> Afetam blocos 

@@ -6,4 +6,5 @@ Criar propriedades customizadas
 :root {
     --color-primary: #a3a300;
     --color-second: white;
+    --color-third: #000;
 }

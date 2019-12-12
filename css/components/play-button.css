@@ -1,0 +1,4 @@
+.play-button {
+    color: var(--color-third);
+    padding: var(--valores-padding);
+}

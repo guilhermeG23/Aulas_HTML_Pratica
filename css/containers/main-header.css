@@ -3,3 +3,7 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.main-header > .main-logo {
+    font-size: 20px;
+}
