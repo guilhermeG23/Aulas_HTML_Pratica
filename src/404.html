@@ -15,6 +15,11 @@
         <link rel="stylesheet" href="../css/settings/color.css">
         <link rel="stylesheet" href="../css/settings/font-size.css">
         <link rel="stylesheet" href="../css/settings/gap.css">
+
+
+        <!--Reset pode deixar aqui por que ele nao afeta os settings-->
+        <link rel="stylesheet" href="../css/generic/reset.css">
+
         <!--Por mim mesmo-->
         <link rel="stylesheet" href="../css/settings/padding.css">
         <link rel="stylesheet" href="../css/settings/reset-element.css">
@@ -26,12 +31,15 @@
         <link rel="stylesheet" href="../css/components/main-sub-logo.css">
         <link rel="stylesheet" href="../css/components/simple-action.css">
         <link rel="stylesheet" href="../css/components/primary-button.css">
+        <link rel="stylesheet" href="../css/components/simple-title.css">
+        <link rel="stylesheet" href="../css/components/simple-subtitle.css">
         <!--Por mim mesmo-->
         <link rel="stylesheet" href="../css/components/play-button.css">
         <!---->
         
-        <link rel="stylesheet" href="../css/containers/main-header.css">
-        <link rel="stylesheet" href="../css/containers/main-menu.css">  
+        <link rel="stylesheet" href="../css/containers/main-menu.css">
+        <link rel="stylesheet" href="../css/containers/main-header.css">  
+        <link rel="stylesheet" href="../css/containers/main-stage.css">  
         <!--Por mim mesmo-->
         <link rel="stylesheet" href="../css/containers/main-content.css">
         <link rel="stylesheet" href="../css/containers/main-button.css">
@@ -56,14 +64,20 @@
         Exercicios
         Feita as alterações pode mim mesmo
         -->
-        <div class="main-content"> 
-            <nav class="main-sub-logo">
-                <h1>Seems like we were not ready for that click</h1>
-                <h2>well, let's at least play a game?</h2>
-                <a class="primary-button play-button" href="">Play</a>
-                <h3 class="main-sub-logo">Go Home!</h3>
-            </nav>
-        </div>
+
+        <!--<div class="main-content">-->
+        <section class="main-stage"> 
+            <!--<nav class="main-sub-logo">-->
+            <h1 class="simple-title">Seems like we were not ready for that click</h1>
+            <h2 class="simple-subtitle">well, let's at least play a game?</h2>
+            <!--
+            <a class="primary-button play-button" href="">Play</a>
+            <a class="main-sub-logo" href="">Go Home!</a>
+            -->
+            <a class="primary-button -dark" href="">Play</a>
+            <a class="simple-action -light" href="">Go Home!</a>
+            <!--</nav>-->
+        </section>
         <!--
         Vai até H6 
         -->

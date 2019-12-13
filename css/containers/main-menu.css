@@ -1,6 +1,6 @@
 .main-menu > .simple-action {
-    margin-right: var(--gap-small);
     font-size: 12px;
+    margin-right: var(--gap-small);
 }
 
 .main-menu > .primary-button {

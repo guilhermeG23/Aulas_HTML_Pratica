@@ -4,7 +4,9 @@ Qualquer um pode usar -> Permite acesso
 Criar propriedades customizadas
 */
 :root {
+    --color-base: #333333;
     --color-primary: #a3a300;
     --color-second: white;
     --color-third: #000;
+    --color-base-light: #fff;
 }

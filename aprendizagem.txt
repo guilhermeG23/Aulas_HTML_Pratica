@@ -59,6 +59,18 @@ Fallback -> Chamar uma fonte de reserva caso a principal não funcionar
 
 Boas práticas de CSS
 
+Estrutura de diretorios baseados na ATI CSS -> Porem não toda
+
 Componentes -> Componentes que irão ser utilizados em mais de um local
+containers -> Envolvem vários ou unico elemento -> Não muito reutilizavel
+elements -> Elementos gerais de determinadas tag
 Settings -> Valores fixos a serem setados em outros locais
-containers -> Afetam blocos 
+generic -> Valores simples e comuns entre elementos
+
+Cross browser -> Funciona igualmente em todos os navegadores -> Necessita muito css e planejamento para criar uma pagina web com essa caracteristica
+
+Nomeação de arquivos facilita o entedimento da estrutura
+
+Section -> Agrupamento de informações
+
+Primeiramente crie uma HTML semantico, depois disso se preocupe com o CSS, use DIVS se somente necessitar realmente para arrumar a estrutura

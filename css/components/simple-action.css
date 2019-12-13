@@ -3,3 +3,9 @@
     text-decoration: none;
     font-family: 'Comfortaa', sans-serif;
 }
+
+.simple-action.-light {
+    font-family: 'Bitter', serif;
+    color: var(--color-base-light);
+
+}

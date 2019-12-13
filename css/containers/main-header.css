@@ -2,6 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    /*Ordem de um relogio -> topo, direita, baixo e esquerda*/
+    padding: var(--gap-smaller) var(--gap-medium) var(--gap-smaller) var(--gap-medium);
 }
 
 .main-header > .main-logo {
