@@ -1,11 +1,12 @@
 .simple-action {
     color: var(--color-second);
     text-decoration: none;
+    /*Fonte principal e uma reserva caso a primeira não carregue*/
     font-family: 'Comfortaa', sans-serif;
 }
 
+/*Criando uma variacao*/
 .simple-action.-light {
     font-family: 'Bitter', serif;
     color: var(--color-base-light);
-
 }

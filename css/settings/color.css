@@ -8,5 +8,6 @@ Criar propriedades customizadas
     --color-primary: #a3a300;
     --color-second: white;
     --color-third: #000;
-    --color-base-light: #fff;
+    /*Variacao da base*/
+    --color-base-light: rgba(51, 51, 51, 0.80);
 }

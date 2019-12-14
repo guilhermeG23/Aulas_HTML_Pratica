@@ -1,3 +1,7 @@
 :root {
     --size-font: 28px;
+    --size-title: 22px;
+    --size-subtitle: 18px;
+    --size-primarybtn: 16px;
+    --size-secondybtn: 14px;
 }

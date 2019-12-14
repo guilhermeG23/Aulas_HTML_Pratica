@@ -1,7 +1,35 @@
 .main-stage {
     display: flex;
+    /*Alterando a direcao -> Porém quando mudado em column, todos os elementos ocupam 100% do display*/
     flex-direction: column;
+    /*Definimos o alinhamento do css -> Ajusta o eixo secundario -> Exio vertical*/
     align-items: center;
     justify-content: center;
+    /*vh pega a altura da tela -> Definido abaixo estáa pegando 80 da altura da tela atual*/
     height: 80vh;
 }
+
+.main-stage > .simple-title {
+    font-size: var(--size-title);
+    margin-bottom: var(--gap-smaller);
+}
+
+.main-stage > .simple-subtitle {
+    font-size: var(--size-subtitle);
+    margin-bottom: var(--gap-big);
+}
+
+.main-stage > .primary-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--size-primarybtn);
+    width: 180px;
+    height: 28px;
+    margin-bottom: var(--gap-smaller);
+}
+
+.main-stage > .simple-action {
+    font-size: var(--size-secondybtn);
+}
+

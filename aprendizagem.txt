@@ -74,3 +74,8 @@ Nomeação de arquivos facilita o entedimento da estrutura
 Section -> Agrupamento de informações
 
 Primeiramente crie uma HTML semantico, depois disso se preocupe com o CSS, use DIVS se somente necessitar realmente para arrumar a estrutura
+
+float no css é mais lento que display 
+
+Display no css é a tag mais nova e funcionar
+
